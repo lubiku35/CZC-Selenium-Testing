@@ -239,11 +239,11 @@ Explanation of the regular expression for email address:
 >
 > **$** asserts the end of the string.
 
-![register](uploads/4d60b29afe5650c51b74354462f76d97/register.png)
+![register](assets/register.png)
 
 ---
 
-![table](uploads/ba5349b12df985e989151059a3171a2d/table.png)
+![table](assets/table.png)
 
 **Expected Result**: The user should be able to register with the correct data and successfully create a new account.
 
@@ -455,7 +455,7 @@ The user performs the following steps:
 
 ### Test Diagram
 
-![registeredCustomerTest](uploads/06dfb35350c045843e78fefeb5e0c678/registeredCustomerTest.png)
+![registeredCustomerTest](assets/registeredCustomerTest.png)
 
 
 <br>
@@ -488,7 +488,7 @@ The user performs the following steps:
 
 ### Test Diagram
 
-![notRegisteredCustomerTest](uploads/bdd37d2caf24b111609385cbbb67634d/notRegisteredCustomerTest.png)
+![notRegisteredCustomerTest](assets/notRegisteredCustomerTest.png)
 
 
 <br>

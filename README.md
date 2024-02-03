@@ -166,8 +166,6 @@ When comes to prioritizing tests for the web application, it's essential to focu
 
 <br>
 
----
-
 ### Accept Cookies Test
 
 This test case validates the functionality of accepting cookies on the website. It ensures that the user can successfully click on the "Accept Cookies" button to acknowledge and accept the use of cookies on the website.
@@ -178,8 +176,6 @@ This test case validates the functionality of accepting cookies on the website. 
 2. Click on the "Accept Cookies" button.
 
 **Expected Result**: The user should be able to accept cookies and continue using the website without any issues.
-
----
 
 ### Browse Through Website Test
 
@@ -196,7 +192,6 @@ This test case verifies the functionality of browsing through various elements o
 
 **Expected Result**: The user should be able to browse the web page without any errors or limitations and experience smooth navigation throughout the website.
 
----
 
 ### Create New Account Test
 
@@ -279,8 +274,6 @@ This test case checks the title of the webpage and verifies that it matches the 
 
 **Expected Result**: The system should return the correct web page title, which should match the expected title.
 
----
-
 ### Search Test
 
 This test case searches for a specific value (in my case, "Iphone") on the website and verifies the search results. 
@@ -296,8 +289,6 @@ This test case searches for a specific value (in my case, "Iphone") on the websi
 7. Iterate over the first three search results and verify that each result has a button to add the item to the shopping cart.
 
 **Expected Result**: The user should be able to find a specific product through the search feature, and the returned results should match the expected search criteria.
-
----
 
 ### Parameterized Search Test
 
@@ -315,8 +306,6 @@ This test case performs a search on the website using different search values. I
 
 **Expected Result**: The user should be able to search for various products using different parameterized search queries, and the returned results should match the expected search criteria for each query.
 
----
-
 ### Shopping Cart Test
 
 This test ensures that the shopping cart functionality is working correctly by adding items to the cart, navigating to the cart page, and performing necessary actions.
@@ -333,8 +322,6 @@ This test ensures that the shopping cart functionality is working correctly by a
 
 **Expected Result**: The user should be able to add a product to the shopping cart, view the shopping cart contents, and perform various actions on the shopping cart without any issues.
 
----
-
 ### Subscribe to Action Offers Test
 
 The SubscribeToActionOffersTest is a parameterized test case that verifies the functionality of subscribing to action offers on the website with accepted email values.
@@ -349,8 +336,6 @@ The SubscribeToActionOffersTest is a parameterized test case that verifies the f
 
 **Expected Result**: The user should be able to subscribe to action offers using a correct email address and receive a confirmation message or email.
 
----
-
 ### Subscribe to Action Offers Wrong Values Test
 
 The SubscribeToActionOffersWrongValuesTest is a parameterized test case that verifies the functionality of subscribing to action offers on the website with not accepted email values.
@@ -362,8 +347,6 @@ The SubscribeToActionOffersWrongValuesTest is a parameterized test case that ver
 - Set the value of the subscribe input field to the current email value.
 - Click on the subscribe button.
 3. After each test iteration, page throws an error about wrong email address, then clear the already set value and back to step 2.
-
----
 
 ### Footer Links Test
 
@@ -378,8 +361,6 @@ The test performs the following checks for each link:
 > Each link is individually tested, including links for "About Us," "About Mall Group," "Contact Form," "Shipping and Payment," "Complaints," "Stores," "ISIC," "Services," "Affiliate Program," and "Documents for Download."
 
 **Expected Result**: The user should be able to click on each link in the footer section and navigate to the intended page or perform the expected action without any issues.
-
----
 
 <br>
 
@@ -457,9 +438,7 @@ The user performs the following steps:
 
 ![registeredCustomerTest](assets/registeredCustomerTest.png)
 
-
 <br>
-
 
 ## Not Registered Customer Test
 
@@ -489,7 +468,6 @@ The user performs the following steps:
 ### Test Diagram
 
 ![notRegisteredCustomerTest](assets/notRegisteredCustomerTest.png)
-
 
 <br>
 
@@ -523,4 +501,4 @@ For each value provided in the test data :
 
 ### Test Diagram
 
-![blogSearchValues](uploads/df7d454751cb49126536f410ce1dedfc/blogSearchValues.png)
+![blogSearchValues](assets/blogSearchValues.png)

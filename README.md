@@ -3,19 +3,6 @@
 
 # CZC - Selenium Website Testing | Semester Project
 
-
-> **Author** | Ľuboslav Motošický, @lubiku35
->
-> **Subject** | Software Testing
->
-> **Project Name** | CZC - Selenium Website Testing 
-
-<br>
-
-# Project Introduction
-
-Welcome to my Selenium Website Testing project! In this endeavor, I have undertaken the task of ensuring the quality and reliability of the website https://www.czc.cz/. I have chosen this website as the target for my testing efforts due to its popularity and the diverse functionalities it offers.
-
 Throughout this project, I have conducted a comprehensive range of tests, starting from basic ones like accepting cookies and verifying the page title, and progressing towards more sophisticated scenarios such as user registration, login functionality, and adding products to the cart. By covering various aspects of the website, I aim to identify and address any potential issues, ensuring a seamless and satisfying user experience.
 
 > As a little bonus, I also tried to test a subpage of this website, which operates as a blog at the url [https://www.czc.cz/geek](https://www.czc.cz/geek), subpage 'geek' contains a search form to find articles which was another attractive object to test | see more in [Blog Search Values Test](#blog-search-values-test)
